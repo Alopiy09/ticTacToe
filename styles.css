@@ -1,0 +1,16 @@
+button {
+    background-color: goldenrod;
+    width: 70px;
+    height: 70px;
+}
+
+section {
+    margin-top: 250px;
+    width: 230px;
+    height:230px;
+}
+body {
+    display: flex;
+    justify-content: center;
+    
+}
